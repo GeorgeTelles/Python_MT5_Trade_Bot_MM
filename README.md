@@ -5,6 +5,10 @@
 
 # Operador Python Automatico - MetaTrader 5 - Média Móveis
 
+<a href="https://github.com/GeorgeTelles/Python_MT5_Trade_Bot_MM/blob/8b5a20fc7eb0c460c2316aa984e907695bc42179/Python_MT5_Trade_Bot_MM.ipynb" target="_parent">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="150" style="display: inline-block; vertical-align: top;">
+  </a>
+
 
 **Este projeto desenvolve um sistema automatizado para análise e operação no mercado de ações, focado no Índice Bovespa (IBOV). O sistema é projetado para monitorar múltiplos ativos vinculados ao IBOV, analisando suas médias móveis e executando operações de compra e venda com base em regras predefinidas. A integração com o MetaTrader 5 permite a execução automática das operações identificadas pelo sistema.**
 
